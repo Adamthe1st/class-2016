@@ -13,6 +13,6 @@ During this course, each of the students will create and publish a piece of scie
 - [Project Name](#url)
 
 ## Week 1: Project Management 
-- Homework
+- Homework Week 1
 ## Week 2: Data Management
-- Homework
+- Homework Week 2
