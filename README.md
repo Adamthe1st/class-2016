@@ -14,5 +14,6 @@ During this course, each of the students will create and publish a piece of scie
 
 ## Week 1: Project Management 
 - Homework Week 1
+
 ## Week 2: Data Management
 - Homework Week 2
