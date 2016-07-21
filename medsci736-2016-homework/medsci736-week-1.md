@@ -10,9 +10,9 @@ Contact your supervisor to get the data you will be working on, and upload your 
 
 ### 3. Create your github working space (~20'; Due 26/7 11:00 am)
 
---1. Create a github account. You can follow [these instructions](https://help.github.com/articles/signing-up-for-a-new-github-account/). 
---2. Create a repo for your project. You can follow [these instructions](https://help.github.com/articles/create-a-repo/)
---3. Once you have created an account and your repo, please email your user name to Fabiana Kubke.
+ 1. Create a github account. You can follow [these instructions](https://help.github.com/articles/signing-up-for-a-new-github-account/). 
+ 2. Create a repo for your project. You can follow [these instructions](https://help.github.com/articles/create-a-repo/)
+ 3. Once you have created an account and your repo, please email your user name to Fabiana Kubke.
 
 ###  4. Complete the Drucker Exercise (~15'; Due 28/7 11:00 am)
 - This will contribute to your 'peer review' assessment component. 
