@@ -17,6 +17,7 @@ Contact your supervisor to get the data you will be working on, and upload your 
 ### 4. Complete the Drucker Exercise (~15'; Due 28/7 11:00 am)
 - This will contribute to your 'peer review' assessment component. 
 - Add the document to your google drive shared folder.
+- A description and explanation of the Drucker exercise can be found [here](https://agilewarrior.wordpress.com/2009/11/27/the-drucker-exercise/).
 
 ### 5. Complete the Project Management Quiz (Due 28/7 11:00 am)
 - this will contribute to your 'quizzes' assessment component
