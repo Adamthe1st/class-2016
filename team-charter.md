@@ -37,6 +37,7 @@ For every student to complete a software-based research project, supported by pe
 - Be respectful of others' time and differing priorities
 - Give all team members equal opportunity to communicate ideas
 - Attend online or in-person standup Monday-Thursday
+- If you are going to be late and you feel value in us waiting for you, please let us know through slack.- 
 - Discuss and resolve issues as they arise
 - Emails for passive communication, Slack for real-time or urgent
 - Make a good faith effort to helpfully annotate your scripts
